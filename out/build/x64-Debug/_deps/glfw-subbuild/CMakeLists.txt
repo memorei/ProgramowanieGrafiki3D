@@ -28,8 +28,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(glfw-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/glfw/glfw.git" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR"
-                    SOURCE_DIR          "C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glfw-src"
-                    BINARY_DIR          "C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glfw-build"
+                    SOURCE_DIR          "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-src"
+                    BINARY_DIR          "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

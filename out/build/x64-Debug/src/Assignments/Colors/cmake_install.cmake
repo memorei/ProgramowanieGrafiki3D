@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/melod/Documents/3d/src/Assignments/Colors
+# Install script for directory: C:/Users/melod/Documents/Geometria3D/src/Assignments/Colors
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/melod/Documents/3d/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -35,6 +35,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/melod/Documents/3d/out/build/x64-Debug/src/Assignments/Colors/install_local_manifest.txt"
+  file(WRITE "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Colors/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

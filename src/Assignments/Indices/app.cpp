@@ -30,23 +30,27 @@ void SimpleShapeApplication::init() {
     glEnable(GL_DEPTH_TEST);
     glDisable(GL_CULL_FACE);
 
-    unsigned int indices[] = {
-       0,1,3,
-       0,3,2,
-       4,5,6
-    };
-
     float vertices[] = {
     // x,y,z            r,g,b
-    -0.8f, -0.5f, 0.f, 0.f, 1.f, 0.f,
-     0.8f, -0.5f, 0.f, 0.f, 1.f, 0.f,
-    -0.8f,  0.2f, 0.f, 0.f, 1.f, 0.f,
-     0.8f,  0.2f, 0.f, 0.f, 1.f, 0.f,
+    -0.8f, -0.5f, 0.f,  0.f, 1.f, 0.f,
+     0.8f, -0.5f, 0.f,  0.f, 1.f, 0.f,
+    -0.8f,  0.2f, 0.f,  0.f, 1.f, 0.f,
+     0.8f,  0.2f, 0.f,  0.f, 1.f, 0.f,
 
-    -0.8f,  0.2f, 0.f, 1.f, 0.f, 0.f,
-     0.8f,  0.2f, 0.f, 1.f, 0.f, 0.f,
-     0.0f,  0.8f, 0.f, 1.f, 0.f, 0.f
+    -0.8f,  0.2f, 0.f,  1.f, 0.f, 0.f,
+     0.8f,  0.2f, 0.f,  1.f, 0.f, 0.f,
+     0.0f,  0.8f, 0.f,  1.f, 0.f, 0.f
     };
+
+    size_t vertex_count = sizeof(vertices) / (6 * sizeof(float));
+
+    std::vector<GLushort> indices = {
+        0, 1, 3,
+        0, 3, 2,
+        4, 5, 6
+    };
+
+    index_count_ = indices.size();
 
     #if __APPLE__
     auto u_modifiers_index = glGetUniformBlockIndex(program, "Modifiers");
@@ -83,20 +87,26 @@ void SimpleShapeApplication::init() {
 
 
     // create VAO, VBO, EBO
-    unsigned int VBO, VAO, EBO;
-    glGenVertexArrays(1, &VAO);
-    glGenBuffers(1, &VBO);
-    glGenBuffers(1, &EBO);
+    glGenVertexArrays(1, &vao_);
+    glGenBuffers(1, &vbo_);
+    glGenBuffers(1, &ebo_);
 
-    glBindVertexArray(VAO);
+    // upload index buffer
+    glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ebo_);
+    glBufferData(GL_ELEMENT_ARRAY_BUFFER, indices.size() * sizeof(GLushort), indices.data(), GL_STATIC_DRAW);
+
+    //unbind index buffer
+    glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, 0);
+
+    //bind vao
+    glBindVertexArray(vao_);
 
     // upload vertex buffer
-    glBindBuffer(GL_ARRAY_BUFFER, VBO);
+    glBindBuffer(GL_ARRAY_BUFFER, vbo_);
     glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
     
-    // upload index buffer
-    glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, EBO);
-    glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(indices), indices, GL_STATIC_DRAW);
+    //bind index buffer
+    glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ebo_);
 
     // vertex attribute: position (3 floats)
     glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 6 * sizeof(float), (void*)0);
@@ -106,6 +116,7 @@ void SimpleShapeApplication::init() {
     glVertexAttribPointer(1, 3, GL_FLOAT, GL_FALSE, 6 * sizeof(float), (void*)(3 * sizeof(float)));
     glEnableVertexAttribArray(1);
 
+    //unbind vao
     glBindVertexArray(0);
 
     // background color and viewport
@@ -117,7 +128,6 @@ void SimpleShapeApplication::init() {
     GLuint idx = glGetUniformBlockIndex(program, "Transformations");
     glUniformBlockBinding(program, idx, 1);
 
-    vao_ = VAO;
     program_ = program;
 }
 
@@ -137,8 +147,8 @@ void SimpleShapeApplication::frame() {
     glUseProgram(program_);
     glBindVertexArray(vao_);
 
-    glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0); 
-    glDrawElements(GL_TRIANGLES, 3, GL_UNSIGNED_INT, (void*)(6 * sizeof(unsigned int)));
+    glDrawElements(GL_TRIANGLES, index_count_, GL_UNSIGNED_SHORT, 0);
+
 }
 
 

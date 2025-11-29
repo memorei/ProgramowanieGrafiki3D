@@ -63,6 +63,8 @@ private:
     GLuint vao_;
     GLuint u_pvm_buffer_;
     GLuint ebo_;
+    GLuint vbo_;
+    size_t index_count_;
 
     GLuint program_;
 

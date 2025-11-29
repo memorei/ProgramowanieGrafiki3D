@@ -28,8 +28,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(glm-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/g-truc/glm.git" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR"
-                    SOURCE_DIR          "C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-src"
-                    BINARY_DIR          "C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-build"
+                    SOURCE_DIR          "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-src"
+                    BINARY_DIR          "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

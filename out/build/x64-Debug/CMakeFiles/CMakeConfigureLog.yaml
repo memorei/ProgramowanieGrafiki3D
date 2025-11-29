@@ -75,7 +75,7 @@ events:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
       ENV{INCLUDE}:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\include"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\ATLMFC\\include"
@@ -117,7 +117,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
       
       The CXX compiler identification is MSVC, found in:
-        C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/4.1.1-msvc4/CompilerIdCXX/CMakeCXXCompilerId.exe
+        C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/4.1.1-msvc4/CompilerIdCXX/CMakeCXXCompilerId.exe
       
   -
     kind: "message-v1"
@@ -129,7 +129,7 @@ events:
     message: |
       Detecting CXX compiler /showIncludes prefix:
         main.c
-        Note: including file: C:\\Users\\melod\\Documents\\3d\\out\\build\\x64-Debug\\CMakeFiles\\ShowIncludes\\foo.h
+        Note: including file: C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Note: including file: "
   -
@@ -239,7 +239,7 @@ events:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
   -
     kind: "find-v1"
     backtrace:
@@ -466,7 +466,7 @@ events:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
   -
     kind: "find-v1"
     backtrace:
@@ -572,7 +572,7 @@ events:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
   -
     kind: "find-v1"
     backtrace:
@@ -705,7 +705,7 @@ events:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
   -
     kind: "find-v1"
     backtrace:
@@ -811,7 +811,7 @@ events:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
   -
     kind: "find-v1"
     backtrace:
@@ -879,7 +879,7 @@ events:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
       ENV{INCLUDE}:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\include"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\ATLMFC\\include"
@@ -921,7 +921,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
       
       The C compiler identification is MSVC, found in:
-        C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/4.1.1-msvc4/CompilerIdC/CMakeCCompilerId.exe
+        C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/4.1.1-msvc4/CompilerIdC/CMakeCCompilerId.exe
       
   -
     kind: "message-v1"
@@ -933,7 +933,7 @@ events:
     message: |
       Detecting C compiler /showIncludes prefix:
         main.c
-        Note: including file: C:\\Users\\melod\\Documents\\3d\\out\\build\\x64-Debug\\CMakeFiles\\ShowIncludes\\foo.h
+        Note: including file: C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Note: including file: "
   -
@@ -1162,7 +1162,7 @@ events:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
   -
     kind: "find-v1"
     backtrace:
@@ -1235,9 +1235,9 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/sbin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/rc.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/rc.exe"
@@ -1310,12 +1310,12 @@ events:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake"
-        - "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+        - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
   -
     kind: "try_compile-v1"
     backtrace:
@@ -1325,8 +1325,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-6sof7w"
-      binary: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-6sof7w"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-e4p1eo"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-e4p1eo"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1336,11 +1336,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-6sof7w'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-e4p1eo'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_13520
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_13520.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_13520.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_13520.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_13520.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_13520.exe /implib:cmTC_13520.lib /pdb:cmTC_13520.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c9b55
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_c9b55.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_c9b55.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_c9b55.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c9b55.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_c9b55.exe /implib:cmTC_c9b55.lib /pdb:cmTC_c9b55.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -1380,8 +1380,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-peihlw"
-      binary: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-peihlw"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-0pmyt4"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-0pmyt4"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1390,11 +1390,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-peihlw'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-0pmyt4'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_029a0
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_029a0.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_029a0.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_029a0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_029a0.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_029a0.exe /implib:cmTC_029a0.lib /pdb:cmTC_029a0.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_aa0fe
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_aa0fe.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_aa0fe.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_aa0fe.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_aa0fe.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_aa0fe.exe /implib:cmTC_aa0fe.lib /pdb:cmTC_aa0fe.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -1499,9 +1499,9 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/sbin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/"
       - "C:/Users/melod/AppData/Local/Atlassian/SourceTree/git_local/bin/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/git.cmd.com"
@@ -1651,15 +1651,15 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/git.cmd.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/git.cmd.exe"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/git.cmd"
       - "C:/Users/melod/AppData/Local/Atlassian/SourceTree/git_local/bin/git.cmd.com"
       - "C:/Users/melod/AppData/Local/Atlassian/SourceTree/git_local/bin/git.cmd.exe"
       - "C:/Users/melod/AppData/Local/Atlassian/SourceTree/git_local/bin/git.cmd"
@@ -1810,15 +1810,15 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/git.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/git.exe"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/git"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/git.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/git.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/git"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/git.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/git.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/git"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/git.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/git.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/git"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/git.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/git.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/git"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/git.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/git.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/git"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/git.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/git.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/git"
       - "C:/Users/melod/AppData/Local/Atlassian/SourceTree/git_local/bin/git.com"
       - "C:/Users/melod/AppData/Local/Atlassian/SourceTree/git_local/bin/git.exe"
       - "C:/Users/melod/AppData/Local/Atlassian/SourceTree/git_local/bin/git"
@@ -1865,12 +1865,12 @@ events:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake"
-        - "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+        - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
   -
     kind: "find-v1"
     backtrace:
@@ -1923,15 +1923,15 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/Git/cmd/"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/Git/bin/"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/Git/cmd/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/Git/bin/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/Git/cmd/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/Git/bin/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/Git/cmd/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/Git/bin/"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/Git/cmd/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/Git/bin/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/Git/cmd/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/Git/bin/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/Git/cmd/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/Git/bin/"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/"
     searched_directories:
       - "C:/Program Files/bin/Git/cmd/git.cmd.com"
       - "C:/Program Files/bin/Git/cmd/git.cmd.exe"
@@ -2014,33 +2014,33 @@ events:
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/git.cmd.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/git.cmd.exe"
       - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/Git/cmd/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/Git/cmd/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/Git/cmd/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/Git/bin/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/Git/bin/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/Git/bin/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/bin/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/Git/cmd/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/Git/cmd/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/Git/cmd/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/Git/bin/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/Git/bin/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/Git/bin/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/sbin/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/Git/cmd/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/Git/cmd/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/Git/cmd/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/Git/bin/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/Git/bin/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/Git/bin/git.cmd"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/git.cmd.com"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/git.cmd.exe"
-      - "C:/Users/melod/Documents/3d/out/install/x64-Debug/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/Git/cmd/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/Git/cmd/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/Git/cmd/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/Git/bin/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/Git/bin/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/Git/bin/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/bin/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/Git/cmd/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/Git/cmd/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/Git/cmd/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/Git/bin/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/Git/bin/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/Git/bin/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/sbin/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/Git/cmd/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/Git/cmd/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/Git/cmd/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/Git/bin/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/Git/bin/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/Git/bin/git.cmd"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/git.cmd.com"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/git.cmd.exe"
+      - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug/git.cmd"
       - "C:/Program Files/bin/Git/cmd/git.com"
       - "C:/Program Files/bin/Git/cmd/git.exe"
       - "C:/Program Files/bin/Git/cmd/git"
@@ -2103,12 +2103,12 @@ events:
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
         - "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\vcpkg"
-      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+      CMAKE_INSTALL_PREFIX: "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake"
-        - "C:/Users/melod/Documents/3d/out/install/x64-Debug"
+        - "C:/Users/melod/Documents/Geometria3D/out/install/x64-Debug"
   -
     kind: "try_compile-v1"
     backtrace:
@@ -2120,24 +2120,24 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-xtphmm"
-      binary: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-xtphmm"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-waeisu"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-waeisu"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glfw-src/CMake/modules"
+      CMAKE_MODULE_PATH: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-src/CMake/modules"
     buildResult:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-xtphmm'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-waeisu'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f867e
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_f867e.dir\\src.c.obj /FdCMakeFiles\\cmTC_f867e.dir\\ /FS -c C:\\Users\\melod\\Documents\\3d\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-xtphmm\\src.c
-        FAILED: CMakeFiles/cmTC_f867e.dir/src.c.obj 
-        C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_f867e.dir\\src.c.obj /FdCMakeFiles\\cmTC_f867e.dir\\ /FS -c C:\\Users\\melod\\Documents\\3d\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-xtphmm\\src.c
-        C:\\Users\\melod\\Documents\\3d\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-xtphmm\\src.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1cfb9
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_1cfb9.dir\\src.c.obj /FdCMakeFiles\\cmTC_1cfb9.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-waeisu\\src.c
+        FAILED: CMakeFiles/cmTC_1cfb9.dir/src.c.obj 
+        C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_1cfb9.dir\\src.c.obj /FdCMakeFiles\\cmTC_1cfb9.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-waeisu\\src.c
+        C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-waeisu\\src.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
         ninja: build stopped: subcommand failed.
         
       exitCode: 1
@@ -2151,25 +2151,25 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-3hcbzs"
-      binary: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-3hcbzs"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-etdd4q"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-etdd4q"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glfw-src/CMake/modules"
+      CMAKE_MODULE_PATH: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-src/CMake/modules"
     buildResult:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-3hcbzs'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-etdd4q'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_55d77
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_55d77.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_55d77.dir\\ /FS -c C:\\Users\\melod\\Documents\\3d\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-3hcbzs\\CheckFunctionExists.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_55d77.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_55d77.dir\\CheckFunctionExists.c.obj  /out:cmTC_55d77.exe /implib:cmTC_55d77.lib /pdb:cmTC_55d77.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        FAILED: cmTC_55d77.exe 
-        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_55d77.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_55d77.dir\\CheckFunctionExists.c.obj  /out:cmTC_55d77.exe /implib:cmTC_55d77.lib /pdb:cmTC_55d77.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_55d77.dir\\CheckFunctionExists.c.obj /out:cmTC_55d77.exe /implib:cmTC_55d77.lib /pdb:cmTC_55d77.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_55d77.dir/intermediate.manifest CMakeFiles\\cmTC_55d77.dir/manifest.res" failed (exit code 1104) with the following output:\x0d
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9736a
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_9736a.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_9736a.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-etdd4q\\CheckFunctionExists.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_9736a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9736a.dir\\CheckFunctionExists.c.obj  /out:cmTC_9736a.exe /implib:cmTC_9736a.lib /pdb:cmTC_9736a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_9736a.exe 
+        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_9736a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9736a.dir\\CheckFunctionExists.c.obj  /out:cmTC_9736a.exe /implib:cmTC_9736a.lib /pdb:cmTC_9736a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9736a.dir\\CheckFunctionExists.c.obj /out:cmTC_9736a.exe /implib:cmTC_9736a.lib /pdb:cmTC_9736a.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_9736a.dir/intermediate.manifest CMakeFiles\\cmTC_9736a.dir/manifest.res" failed (exit code 1104) with the following output:\x0d
         LINK : fatal error LNK1104: cannot open file 'pthreads.lib'\x0d\x0d
         ninja: build stopped: subcommand failed.
         
@@ -2184,25 +2184,25 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-xke522"
-      binary: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-xke522"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-oimrb9"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-oimrb9"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
-      CMAKE_MODULE_PATH: "C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glfw-src/CMake/modules"
+      CMAKE_MODULE_PATH: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-src/CMake/modules"
     buildResult:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-xke522'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-oimrb9'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_3c8a0
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_3c8a0.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_3c8a0.dir\\ /FS -c C:\\Users\\melod\\Documents\\3d\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-xke522\\CheckFunctionExists.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_3c8a0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3c8a0.dir\\CheckFunctionExists.c.obj  /out:cmTC_3c8a0.exe /implib:cmTC_3c8a0.lib /pdb:cmTC_3c8a0.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        FAILED: cmTC_3c8a0.exe 
-        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_3c8a0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3c8a0.dir\\CheckFunctionExists.c.obj  /out:cmTC_3c8a0.exe /implib:cmTC_3c8a0.lib /pdb:cmTC_3c8a0.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3c8a0.dir\\CheckFunctionExists.c.obj /out:cmTC_3c8a0.exe /implib:cmTC_3c8a0.lib /pdb:cmTC_3c8a0.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_3c8a0.dir/intermediate.manifest CMakeFiles\\cmTC_3c8a0.dir/manifest.res" failed (exit code 1104) with the following output:\x0d
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9be90
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_9be90.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_9be90.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-oimrb9\\CheckFunctionExists.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_9be90.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9be90.dir\\CheckFunctionExists.c.obj  /out:cmTC_9be90.exe /implib:cmTC_9be90.lib /pdb:cmTC_9be90.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_9be90.exe 
+        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_9be90.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9be90.dir\\CheckFunctionExists.c.obj  /out:cmTC_9be90.exe /implib:cmTC_9be90.lib /pdb:cmTC_9be90.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9be90.dir\\CheckFunctionExists.c.obj /out:cmTC_9be90.exe /implib:cmTC_9be90.lib /pdb:cmTC_9be90.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_9be90.dir/intermediate.manifest CMakeFiles\\cmTC_9be90.dir/manifest.res" failed (exit code 1104) with the following output:\x0d
         LINK : fatal error LNK1104: cannot open file 'pthread.lib'\x0d\x0d
         ninja: build stopped: subcommand failed.
         
@@ -2216,8 +2216,8 @@ events:
     checks:
       - "Looking for _fwrite_nolock"
     directories:
-      source: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-gzztsg"
-      binary: "C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-gzztsg"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-n789uo"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-n789uo"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -2226,11 +2226,11 @@ events:
       variable: "HAVE_FWRITE_UNLOCKED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/3d/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-gzztsg'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-n789uo'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_2401f
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_2401f.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_2401f.dir\\ /FS -c C:\\Users\\melod\\Documents\\3d\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-gzztsg\\CheckSymbolExists.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_2401f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_2401f.dir\\CheckSymbolExists.c.obj  /out:cmTC_2401f.exe /implib:cmTC_2401f.lib /pdb:cmTC_2401f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_33c83
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_33c83.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_33c83.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-n789uo\\CheckSymbolExists.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_33c83.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_33c83.dir\\CheckSymbolExists.c.obj  /out:cmTC_33c83.exe /implib:cmTC_33c83.lib /pdb:cmTC_33c83.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...

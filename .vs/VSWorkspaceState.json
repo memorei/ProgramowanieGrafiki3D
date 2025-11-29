@@ -1,0 +1,18 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Assignments",
+    "\\src\\Assignments\\Colors\\shaders",
+    "\\src\\Assignments\\House\\shaders",
+    "\\src\\Assignments\\Indices\\shaders"
+  ],
+  "SelectedNode": "\\src\\Assignments\\Indices",
+  "PreviewInSolutionExplorer": false
+}

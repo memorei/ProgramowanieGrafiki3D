@@ -1,9 +1,9 @@
 
-if (NOT EXISTS "C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glfw-build/install_manifest.txt")
-    message(FATAL_ERROR "Cannot find install manifest: \"C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glfw-build/install_manifest.txt\"")
+if (NOT EXISTS "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/install_manifest.txt")
+    message(FATAL_ERROR "Cannot find install manifest: \"C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/install_manifest.txt\"")
 endif()
 
-file(READ "C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glfw-build/install_manifest.txt" files)
+file(READ "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 
 foreach (file ${files})
