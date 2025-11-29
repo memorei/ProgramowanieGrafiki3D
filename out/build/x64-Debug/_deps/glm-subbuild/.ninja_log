@@ -1,0 +1,21 @@
+# ninja log v6
+5	100	7861042230805763	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	e5984bcdf4e60d2
+5	100	7861042230805763	C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	e5984bcdf4e60d2
+101	13313	7861042362947573	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	cc285d827a897068
+101	13313	7861042362947573	C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	cc285d827a897068
+13313	15559	7861042362997979	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	6b90a6cbb1c05155
+13313	15559	7861042362997979	C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	6b90a6cbb1c05155
+15560	15625	7861042386067013	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	7765d770400ad771
+15560	15625	7861042386067013	C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	7765d770400ad771
+15625	15689	7861042386716685	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	d64ef30818e47a08
+15625	15689	7861042386716685	C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	d64ef30818e47a08
+15690	15754	7861042387355606	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	ab288735b5b81023
+15690	15754	7861042387355606	C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	ab288735b5b81023
+15754	15812	7861042387946137	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	ccb06e781151d1b2
+15754	15812	7861042387946137	C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	ccb06e781151d1b2
+15813	15899	7861042388796710	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	56b39d688c11aeb1
+15813	15899	7861042388796710	C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	56b39d688c11aeb1
+15900	15982	7861042389640452	CMakeFiles/glm-populate-complete	85446d3c822380b7
+15900	15982	7861042389640452	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	85446d3c822380b7
+15900	15982	7861042389640452	C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	85446d3c822380b7
+15900	15982	7861042389640452	C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	85446d3c822380b7

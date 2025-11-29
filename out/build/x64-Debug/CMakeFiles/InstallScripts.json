@@ -1,0 +1,20 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-build/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/glm-build/glm/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/_deps/spdlog-build/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/src/Application/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/src/ObjectReader/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/src/XeEngine/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/src/Engine/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/src/Assignments/Triangle/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/src/Assignments/House/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/src/Assignments/Colors/cmake_install.cmake",
+		"C:/Users/melod/Documents/3d/out/build/x64-Debug/src/Assignments/Indices/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
