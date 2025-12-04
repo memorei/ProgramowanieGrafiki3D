@@ -82,3 +82,15 @@ C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Indices
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/list_install_components.dir
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/install.dir
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/Uniforms.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/install.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/PVM.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/install.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/install/local.dir
