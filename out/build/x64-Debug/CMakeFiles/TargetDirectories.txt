@@ -94,3 +94,9 @@ C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMa
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/list_install_components.dir
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/install.dir
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/Pyramid.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/install.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/install/local.dir

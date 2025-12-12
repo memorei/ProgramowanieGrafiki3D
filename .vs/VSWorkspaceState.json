@@ -7,12 +7,15 @@
   },
   "ExpandedNodes": [
     "",
+    "\\Assignments\\Pyramid",
+    "\\Assignments\\Resizing",
+    "\\Assignments\\Zoom",
     "\\src",
     "\\src\\Assignments",
-    "\\src\\Assignments\\Colors\\shaders",
-    "\\src\\Assignments\\House\\shaders",
-    "\\src\\Assignments\\Indices\\shaders"
+    "\\src\\Assignments\\Colors",
+    "\\src\\Assignments\\PVM\\shaders",
+    "\\src\\Assignments\\Triangle"
   ],
-  "SelectedNode": "\\src\\Assignments\\Indices",
+  "SelectedNode": "\\src\\Assignments\\Colors\\app.cpp",
   "PreviewInSolutionExplorer": false
 }

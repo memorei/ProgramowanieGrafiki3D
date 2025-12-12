@@ -3,3 +3,4 @@
 out/*
 /.vs
 .vs/cmake.db
+/out

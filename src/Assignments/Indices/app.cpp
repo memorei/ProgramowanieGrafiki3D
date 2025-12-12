@@ -34,9 +34,6 @@ void SimpleShapeApplication::init() {
     // x,y,z            r,g,b
     -0.8f, -0.5f, 0.f,  0.f, 1.f, 0.f,
      0.8f, -0.5f, 0.f,  0.f, 1.f, 0.f,
-    -0.8f,  0.2f, 0.f,  0.f, 1.f, 0.f,
-     0.8f,  0.2f, 0.f,  0.f, 1.f, 0.f,
-
     -0.8f,  0.2f, 0.f,  1.f, 0.f, 0.f,
      0.8f,  0.2f, 0.f,  1.f, 0.f, 0.f,
      0.0f,  0.8f, 0.f,  1.f, 0.f, 0.f
@@ -47,7 +44,7 @@ void SimpleShapeApplication::init() {
     std::vector<GLushort> indices = {
         0, 1, 3,
         0, 3, 2,
-        4, 5, 6
+        2, 3, 4
     };
 
     index_count_ = indices.size();

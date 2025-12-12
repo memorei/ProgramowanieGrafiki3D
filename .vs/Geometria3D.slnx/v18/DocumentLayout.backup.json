@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\melod\\Documents\\Geometria3D\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\PVM\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignments\\PVM\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\House\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignments\\House\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Indices\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignments\\Indices\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Indices\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignments\\Indices\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melod\\Documents\\Geometria3D\\Assignments\\Indices\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignments\\Indices\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "app.h",
-              "DocumentMoniker": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Indices\\app.h",
-              "RelativeDocumentMoniker": "src\\Assignments\\Indices\\app.h",
-              "ToolTip": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Indices\\app.h",
-              "RelativeToolTip": "src\\Assignments\\Indices\\app.h",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-29T09:07:23.928Z",
+              "DocumentIndex": 0,
+              "Title": "app.cpp",
+              "DocumentMoniker": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\PVM\\app.cpp",
+              "RelativeDocumentMoniker": "src\\Assignments\\PVM\\app.cpp",
+              "ToolTip": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\PVM\\app.cpp",
+              "RelativeToolTip": "src\\Assignments\\PVM\\app.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-12T20:14:19.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "app.cpp",
+              "DocumentMoniker": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\House\\app.cpp",
+              "RelativeDocumentMoniker": "src\\Assignments\\House\\app.cpp",
+              "ToolTip": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\House\\app.cpp",
+              "RelativeToolTip": "src\\Assignments\\House\\app.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-12T20:12:59.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "app.cpp",
               "DocumentMoniker": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Indices\\app.cpp",
               "RelativeDocumentMoniker": "src\\Assignments\\Indices\\app.cpp",
               "ToolTip": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Indices\\app.cpp",
               "RelativeToolTip": "src\\Assignments\\Indices\\app.cpp",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-29T07:38:04.341Z",
+              "WhenOpened": "2025-12-12T20:06:21.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\melod\\Documents\\Geometria3D\\Assignments\\Indices\\README.md",
+              "RelativeDocumentMoniker": "Assignments\\Indices\\README.md",
+              "ToolTip": "C:\\Users\\melod\\Documents\\Geometria3D\\Assignments\\Indices\\README.md",
+              "RelativeToolTip": "Assignments\\Indices\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-12T20:05:31.205Z",
               "EditorCaption": ""
             }
           ]
