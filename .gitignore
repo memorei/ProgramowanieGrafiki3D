@@ -1,0 +1,5 @@
+.vs/*
+
+out/*
+/.vs
+.vs/cmake.db
