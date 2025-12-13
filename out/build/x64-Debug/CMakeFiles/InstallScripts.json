@@ -18,7 +18,8 @@
 		"C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/cmake_install.cmake",
 		"C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/cmake_install.cmake",
 		"C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/cmake_install.cmake",
-		"C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/cmake_install.cmake"
+		"C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/cmake_install.cmake",
+		"C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

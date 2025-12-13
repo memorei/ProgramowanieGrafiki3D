@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\melod\\Documents\\Geometria3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Resizing\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignments\\Resizing\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Zoom\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignments\\Zoom\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Resizing\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignments\\Resizing\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Zoom\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignments\\Zoom\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Zoom\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignments\\Zoom\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Resizing\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assignments\\Resizing\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "app.h",
-              "DocumentMoniker": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Resizing\\app.h",
-              "RelativeDocumentMoniker": "src\\Assignments\\Resizing\\app.h",
-              "ToolTip": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Resizing\\app.h",
-              "RelativeToolTip": "src\\Assignments\\Resizing\\app.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-13T09:33:44.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "app.cpp",
               "DocumentMoniker": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Resizing\\app.cpp",
               "RelativeDocumentMoniker": "src\\Assignments\\Resizing\\app.cpp",
               "ToolTip": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Resizing\\app.cpp",
               "RelativeToolTip": "src\\Assignments\\Resizing\\app.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAgwCQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-13T09:28:27.974Z",
+              "WhenOpened": "2025-12-13T10:32:40.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.h",
+              "DocumentMoniker": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Zoom\\app.h",
+              "RelativeDocumentMoniker": "src\\Assignments\\Zoom\\app.h",
+              "ToolTip": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Zoom\\app.h",
+              "RelativeToolTip": "src\\Assignments\\Zoom\\app.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-13T10:29:22.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.cpp",
+              "DocumentMoniker": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Zoom\\app.cpp",
+              "RelativeDocumentMoniker": "src\\Assignments\\Zoom\\app.cpp",
+              "ToolTip": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Zoom\\app.cpp",
+              "RelativeToolTip": "src\\Assignments\\Zoom\\app.cpp",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAI4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-13T10:29:21.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Zoom\\camera.h",
+              "RelativeDocumentMoniker": "src\\Assignments\\Zoom\\camera.h",
+              "ToolTip": "C:\\Users\\melod\\Documents\\Geometria3D\\src\\Assignments\\Zoom\\camera.h",
+              "RelativeToolTip": "src\\Assignments\\Zoom\\camera.h",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-13T10:26:29.663Z",
               "EditorCaption": ""
             }
           ]

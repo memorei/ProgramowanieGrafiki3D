@@ -607,6 +607,15 @@ XeEngine_IS_TOP_LEVEL:STATIC=OFF
 XeEngine_SOURCE_DIR:STATIC=C:/Users/melod/Documents/Geometria3D/src/XeEngine
 
 //Value Computed by CMake
+Zoom_BINARY_DIR:STATIC=C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom
+
+//Value Computed by CMake
+Zoom_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Zoom_SOURCE_DIR:STATIC=C:/Users/melod/Documents/Geometria3D/src/Assignments/Zoom
+
+//Value Computed by CMake
 application_BINARY_DIR:STATIC=C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Application
 
 //Value Computed by CMake
@@ -766,7 +775,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=18
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=19
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //noop for ranlib

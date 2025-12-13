@@ -106,3 +106,9 @@ C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizin
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/list_install_components.dir
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/install.dir
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/Zoom.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/install.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/install/local.dir
