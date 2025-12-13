@@ -100,3 +100,9 @@ C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/list_install_components.dir
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/install.dir
 C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/Resizing.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/install.dir
+C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/install/local.dir

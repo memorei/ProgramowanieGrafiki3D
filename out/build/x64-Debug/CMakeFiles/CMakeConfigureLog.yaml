@@ -101,11 +101,11 @@ events:
       
       The output was:
       0
-      Microsoft (R) C/C++ Optimizing Compiler Version 19.50.35719 for x64
+      Microsoft (R) C/C++ Optimizing Compiler Version 19.50.35720 for x64
       Copyright (C) Microsoft Corporation.  All rights reserved.
       
       CMakeCXXCompilerId.cpp
-      Microsoft (R) Incremental Linker Version 14.50.35719.0
+      Microsoft (R) Incremental Linker Version 14.50.35720.0
       Copyright (C) Microsoft Corporation.  All rights reserved.
       
       /out:CMakeCXXCompilerId.exe 
@@ -905,11 +905,11 @@ events:
       
       The output was:
       0
-      Microsoft (R) C/C++ Optimizing Compiler Version 19.50.35719 for x64
+      Microsoft (R) C/C++ Optimizing Compiler Version 19.50.35720 for x64
       Copyright (C) Microsoft Corporation.  All rights reserved.
       
       CMakeCCompilerId.c
-      Microsoft (R) Incremental Linker Version 14.50.35719.0
+      Microsoft (R) Incremental Linker Version 14.50.35720.0
       Copyright (C) Microsoft Corporation.  All rights reserved.
       
       /out:CMakeCCompilerId.exe 
@@ -1325,8 +1325,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-q3s8a0"
-      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-q3s8a0"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-kybc6z"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-kybc6z"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1336,11 +1336,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-q3s8a0'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-kybc6z'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b2f87
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_b2f87.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_b2f87.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_b2f87.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b2f87.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_b2f87.exe /implib:cmTC_b2f87.lib /pdb:cmTC_b2f87.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_861e5
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_861e5.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_861e5.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_861e5.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_861e5.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_861e5.exe /implib:cmTC_861e5.lib /pdb:cmTC_861e5.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -1369,7 +1369,7 @@ events:
       - "CMakeLists.txt:3 (project)"
     message: |
       Running the CXX compiler's linker: "C:/PROGRA~1/MICROS~4/18/Insiders/VC/Tools/MSVC/1450~1.357/bin/Hostx64/x64/link.exe" "-v"
-      Microsoft (R) Incremental Linker Version 14.50.35719.0
+      Microsoft (R) Incremental Linker Version 14.50.35720.0
       Copyright (C) Microsoft Corporation.  All rights reserved.
   -
     kind: "try_compile-v1"
@@ -1380,8 +1380,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ddwo31"
-      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ddwo31"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-1xcwqo"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-1xcwqo"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1390,11 +1390,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ddwo31'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-1xcwqo'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_62290
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_62290.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_62290.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_62290.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_62290.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_62290.exe /implib:cmTC_62290.lib /pdb:cmTC_62290.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_92f61
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_92f61.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_92f61.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_92f61.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_92f61.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_92f61.exe /implib:cmTC_92f61.lib /pdb:cmTC_92f61.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -1423,7 +1423,7 @@ events:
       - "CMakeLists.txt:3 (project)"
     message: |
       Running the C compiler's linker: "C:/PROGRA~1/MICROS~4/18/Insiders/VC/Tools/MSVC/1450~1.357/bin/Hostx64/x64/link.exe" "-v"
-      Microsoft (R) Incremental Linker Version 14.50.35719.0
+      Microsoft (R) Incremental Linker Version 14.50.35720.0
       Copyright (C) Microsoft Corporation.  All rights reserved.
   -
     kind: "find-v1"
@@ -2120,8 +2120,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-5ad1hq"
-      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-5ad1hq"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ciuggq"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ciuggq"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -2131,13 +2131,13 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-5ad1hq'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ciuggq'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5e5b8
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_5e5b8.dir\\src.c.obj /FdCMakeFiles\\cmTC_5e5b8.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-5ad1hq\\src.c
-        FAILED: CMakeFiles/cmTC_5e5b8.dir/src.c.obj 
-        C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_5e5b8.dir\\src.c.obj /FdCMakeFiles\\cmTC_5e5b8.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-5ad1hq\\src.c
-        C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-5ad1hq\\src.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_e9485
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_e9485.dir\\src.c.obj /FdCMakeFiles\\cmTC_e9485.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ciuggq\\src.c
+        FAILED: CMakeFiles/cmTC_e9485.dir/src.c.obj 
+        C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_e9485.dir\\src.c.obj /FdCMakeFiles\\cmTC_e9485.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ciuggq\\src.c
+        C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ciuggq\\src.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory
         ninja: build stopped: subcommand failed.
         
       exitCode: 1
@@ -2151,8 +2151,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-887aeh"
-      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-887aeh"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-4pb7w6"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-4pb7w6"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -2162,14 +2162,14 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-887aeh'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-4pb7w6'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_89693
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_89693.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_89693.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-887aeh\\CheckFunctionExists.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_89693.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_89693.dir\\CheckFunctionExists.c.obj  /out:cmTC_89693.exe /implib:cmTC_89693.lib /pdb:cmTC_89693.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        FAILED: cmTC_89693.exe 
-        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_89693.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_89693.dir\\CheckFunctionExists.c.obj  /out:cmTC_89693.exe /implib:cmTC_89693.lib /pdb:cmTC_89693.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_89693.dir\\CheckFunctionExists.c.obj /out:cmTC_89693.exe /implib:cmTC_89693.lib /pdb:cmTC_89693.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_89693.dir/intermediate.manifest CMakeFiles\\cmTC_89693.dir/manifest.res" failed (exit code 1104) with the following output:\x0d
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_63baa
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_63baa.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_63baa.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4pb7w6\\CheckFunctionExists.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_63baa.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_63baa.dir\\CheckFunctionExists.c.obj  /out:cmTC_63baa.exe /implib:cmTC_63baa.lib /pdb:cmTC_63baa.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_63baa.exe 
+        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_63baa.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_63baa.dir\\CheckFunctionExists.c.obj  /out:cmTC_63baa.exe /implib:cmTC_63baa.lib /pdb:cmTC_63baa.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_63baa.dir\\CheckFunctionExists.c.obj /out:cmTC_63baa.exe /implib:cmTC_63baa.lib /pdb:cmTC_63baa.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_63baa.dir/intermediate.manifest CMakeFiles\\cmTC_63baa.dir/manifest.res" failed (exit code 1104) with the following output:\x0d
         LINK : fatal error LNK1104: cannot open file 'pthreads.lib'\x0d\x0d
         ninja: build stopped: subcommand failed.
         
@@ -2184,8 +2184,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-v6nuu8"
-      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-v6nuu8"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-13rzwd"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-13rzwd"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -2195,14 +2195,14 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-v6nuu8'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-13rzwd'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_176a8
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_176a8.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_176a8.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-v6nuu8\\CheckFunctionExists.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_176a8.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_176a8.dir\\CheckFunctionExists.c.obj  /out:cmTC_176a8.exe /implib:cmTC_176a8.lib /pdb:cmTC_176a8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        FAILED: cmTC_176a8.exe 
-        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_176a8.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_176a8.dir\\CheckFunctionExists.c.obj  /out:cmTC_176a8.exe /implib:cmTC_176a8.lib /pdb:cmTC_176a8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_176a8.dir\\CheckFunctionExists.c.obj /out:cmTC_176a8.exe /implib:cmTC_176a8.lib /pdb:cmTC_176a8.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_176a8.dir/intermediate.manifest CMakeFiles\\cmTC_176a8.dir/manifest.res" failed (exit code 1104) with the following output:\x0d
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ae2c0
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_ae2c0.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_ae2c0.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-13rzwd\\CheckFunctionExists.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_ae2c0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ae2c0.dir\\CheckFunctionExists.c.obj  /out:cmTC_ae2c0.exe /implib:cmTC_ae2c0.lib /pdb:cmTC_ae2c0.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_ae2c0.exe 
+        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_ae2c0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ae2c0.dir\\CheckFunctionExists.c.obj  /out:cmTC_ae2c0.exe /implib:cmTC_ae2c0.lib /pdb:cmTC_ae2c0.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ae2c0.dir\\CheckFunctionExists.c.obj /out:cmTC_ae2c0.exe /implib:cmTC_ae2c0.lib /pdb:cmTC_ae2c0.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_ae2c0.dir/intermediate.manifest CMakeFiles\\cmTC_ae2c0.dir/manifest.res" failed (exit code 1104) with the following output:\x0d
         LINK : fatal error LNK1104: cannot open file 'pthread.lib'\x0d\x0d
         ninja: build stopped: subcommand failed.
         
@@ -2216,8 +2216,8 @@ events:
     checks:
       - "Looking for _fwrite_nolock"
     directories:
-      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-a5jhes"
-      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-a5jhes"
+      source: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-j4990z"
+      binary: "C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-j4990z"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -2226,11 +2226,11 @@ events:
       variable: "HAVE_FWRITE_UNLOCKED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-a5jhes'
+        Change Dir: 'C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-j4990z'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9bb0e
-        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_9bb0e.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_9bb0e.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-a5jhes\\CheckSymbolExists.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_9bb0e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9bb0e.dir\\CheckSymbolExists.c.obj  /out:cmTC_9bb0e.exe /implib:cmTC_9bb0e.lib /pdb:cmTC_9bb0e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_2baeb
+        [1/2] C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /showIncludes /FoCMakeFiles\\cmTC_2baeb.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_2baeb.dir\\ /FS -c C:\\Users\\melod\\Documents\\Geometria3D\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-j4990z\\CheckSymbolExists.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_2baeb.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_2baeb.dir\\CheckSymbolExists.c.obj  /out:cmTC_2baeb.exe /implib:cmTC_2baeb.lib /pdb:cmTC_2baeb.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...

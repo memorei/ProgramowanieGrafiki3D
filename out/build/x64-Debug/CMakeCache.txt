@@ -475,6 +475,15 @@ Pyramid_IS_TOP_LEVEL:STATIC=OFF
 //Value Computed by CMake
 Pyramid_SOURCE_DIR:STATIC=C:/Users/melod/Documents/Geometria3D/src/Assignments/Pyramid
 
+//Value Computed by CMake
+Resizing_BINARY_DIR:STATIC=C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing
+
+//Value Computed by CMake
+Resizing_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Resizing_SOURCE_DIR:STATIC=C:/Users/melod/Documents/Geometria3D/src/Assignments/Resizing
+
 //Build all artifacts
 SPDLOG_BUILD_ALL:BOOL=OFF
 
@@ -757,7 +766,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=17
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=18
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //noop for ranlib
