@@ -1,5 +1,7 @@
 #include "app.h"
-
+#ifndef PROJECT_DIR
+#define PROJECT_DIR "."
+#endif
 #include <iostream>
 #include <vector>
 #include <tuple>

@@ -1,7 +1,3 @@
-//
-// Created by Piotr Białas on 02/11/2021.
-//
-
 #pragma once
 
 #include <glad/gl.h>

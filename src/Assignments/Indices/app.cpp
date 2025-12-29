@@ -31,12 +31,12 @@ void SimpleShapeApplication::init() {
     glDisable(GL_CULL_FACE);
 
     float vertices[] = {
-    // x,y,z            r,g,b
-    -0.8f, -0.5f, 0.f,  0.f, 1.f, 0.f,
-     0.8f, -0.5f, 0.f,  0.f, 1.f, 0.f,
-    -0.8f,  0.2f, 0.f,  1.f, 0.f, 0.f,
-     0.8f,  0.2f, 0.f,  1.f, 0.f, 0.f,
-     0.0f,  0.8f, 0.f,  1.f, 0.f, 0.f
+        // x,y,z            r,g,b
+        -0.8f, -0.5f, 0.f,  0.f, 1.f, 0.f,
+         0.8f, -0.5f, 0.f,  0.f, 1.f, 0.f,
+        -0.8f,  0.2f, 0.f,  1.f, 0.f, 0.f,
+         0.8f,  0.2f, 0.f,  1.f, 0.f, 0.f,
+         0.0f,  0.8f, 0.f,  1.f, 0.f, 0.f
     };
 
     size_t vertex_count = sizeof(vertices) / (6 * sizeof(float));
@@ -49,7 +49,7 @@ void SimpleShapeApplication::init() {
 
     index_count_ = indices.size();
 
-    #if __APPLE__
+#if __APPLE__
     auto u_modifiers_index = glGetUniformBlockIndex(program, "Modifiers");
     if (u_modifiers_index == -1) {
         std::cerr << "Cannot find Modifiers uniform block in program" << std::endl;
@@ -57,7 +57,7 @@ void SimpleShapeApplication::init() {
     else {
         glUniformBlockBinding(program, u_modifiers_index, 0);
     }
-    #endif
+#endif
 
     // create UBO for projection-view martrix
     glGenBuffers(1, &u_pvm_buffer_);
@@ -101,7 +101,7 @@ void SimpleShapeApplication::init() {
     // upload vertex buffer
     glBindBuffer(GL_ARRAY_BUFFER, vbo_);
     glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
-    
+
     //bind index buffer
     glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ebo_);
 
@@ -151,8 +151,8 @@ void SimpleShapeApplication::frame() {
 
 void SimpleShapeApplication::framebuffer_resize_callback(int w, int h) {
     Application::framebuffer_resize_callback(w, h);
-    glViewport(0,0,w,h);
-    camera()->set_aspect((float) w / h);
+    glViewport(0, 0, w, h);
+    camera()->set_aspect((float)w / h);
 }
 
 void SimpleShapeApplication::mouse_button_callback(int button, int action, int mods) {

@@ -1,21 +1,21 @@
 # ninja log v6
-9	107	7873252678393586	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	6a6269c3cf0d0697
-9	107	7873252678393586	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	6a6269c3cf0d0697
-108	6265	7873252739984249	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	1ce8f3ff4d28e2c8
-108	6265	7873252739984249	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	1ce8f3ff4d28e2c8
-6268	7698	7873252740054492	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	6e9ec888d1324a4e
-6268	7698	7873252740054492	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	6e9ec888d1324a4e
-7698	7752	7873252754854397	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	497468871305c01e
-7698	7752	7873252754854397	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	497468871305c01e
-7753	7809	7873252755424641	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	1416fc461a3f6b61
-7753	7809	7873252755424641	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	1416fc461a3f6b61
-7809	7867	7873252755997127	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	a6d55f10ed351e1a
-7809	7867	7873252755997127	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	a6d55f10ed351e1a
-7867	7924	7873252756566150	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	3a23aa388015a7a8
-7867	7924	7873252756566150	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	3a23aa388015a7a8
-7924	7978	7873252757108650	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	be073faa812ab37
-7924	7978	7873252757108650	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	be073faa812ab37
-7978	8055	7873252757878996	CMakeFiles/spdlog-populate-complete	f400e6344e45eba8
-7978	8055	7873252757878996	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	f400e6344e45eba8
-7978	8055	7873252757878996	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	f400e6344e45eba8
-7978	8055	7873252757878996	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	f400e6344e45eba8
+4	78	7887443902580367	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	bfec6d12fec787ac
+4	78	7887443902580367	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	bfec6d12fec787ac
+79	7117	7887443972970306	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	35083d190fd42eed
+79	7117	7887443972970306	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	35083d190fd42eed
+7117	8577	7887443973036023	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	dbb861e809f2e56c
+7117	8577	7887443973036023	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	dbb861e809f2e56c
+8577	8632	7887443988129046	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	410be2fb4a49fa70
+8577	8632	7887443988129046	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	410be2fb4a49fa70
+8632	8688	7887443988680242	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	d9e440bdbf56620c
+8632	8688	7887443988680242	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	d9e440bdbf56620c
+8688	8744	7887443989253833	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	d8d6acc7fb06f089
+8688	8744	7887443989253833	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	d8d6acc7fb06f089
+8744	8803	7887443989841013	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	416fe567edb04c14
+8744	8803	7887443989841013	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	416fe567edb04c14
+8804	8866	7887443990473545	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	ec2eedafa533252b
+8804	8866	7887443990473545	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	ec2eedafa533252b
+8867	8945	7887443991260371	CMakeFiles/spdlog-populate-complete	e007bcafbe1bb04d
+8867	8945	7887443991260371	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	e007bcafbe1bb04d
+8867	8945	7887443991260371	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	e007bcafbe1bb04d
+8867	8945	7887443991260371	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	e007bcafbe1bb04d

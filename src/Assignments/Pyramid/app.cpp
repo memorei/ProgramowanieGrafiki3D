@@ -49,16 +49,7 @@ void SimpleShapeApplication::init() {
   glBufferSubData(GL_UNIFORM_BUFFER, 16, 3 * sizeof(float), color);
   glBindBuffer(GL_UNIFORM_BUFFER, 0);
      
- // transformations ubp: stores a single mat4 PVM 
 
- glGenBuffers(1, &transformations_ubo_);
- glBindBuffer(GL_UNIFORM_BUFFER, transformations_ubo_);
-
- // allocate space for mat4 (16 floats = 64 bytes)
- glBufferData(GL_UNIFORM_BUFFER, sizeof(glm::mat4), nullptr, GL_STATIC_DRAW);
-
-// bind UBO to binding point = 1
-glBindBufferBase(GL_UNIFORM_BUFFER, 1, transformations_ubo_);
 
     float vertices[] = {
     // first wall        // red

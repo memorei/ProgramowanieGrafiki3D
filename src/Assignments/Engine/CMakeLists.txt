@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.15)
+project(Engine CXX)
+
+add_compile_definitions(PROJECT_NAME="${PROJECT_NAME}" PROJECT_DIR="${CMAKE_CURRENT_SOURCE_DIR}")
+
+add_library(engine
+        Mesh.h 
+        Mesh.cpp
+        mesh_loader.cpp
+        mesh_loader.h        
+        Material.h 
+        Material.cpp
+        )
+
+target_link_libraries(engine PUBLIC objreader PRIVATE spdlog::spdlog)

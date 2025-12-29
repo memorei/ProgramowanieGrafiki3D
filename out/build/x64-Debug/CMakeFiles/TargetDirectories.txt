@@ -1,114 +1,132 @@
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/glad.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/uninstall.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/glfw.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/glm.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/spdlog.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Application/CMakeFiles/application.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Application/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Application/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Application/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Application/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Application/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/objreader.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/xe-engine.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Engine/CMakeFiles/engine.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Engine/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Engine/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Engine/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Engine/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Engine/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/MeshesMaterials.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/House.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/Colors.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/Indices.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/Uniforms.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/PVM.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/Pyramid.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/Resizing.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/install/local.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/Zoom.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/edit_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/rebuild_cache.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/list_install_components.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/install.dir
-C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/CMakeFiles/glad.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/uninstall.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/glfw.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-build/src/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-build/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-build/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-build/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-build/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-build/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/glm.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-build/glm/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/spdlog.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-build/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Application/CMakeFiles/application.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Application/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Application/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Application/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Application/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Application/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/objreader.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/ObjectReader/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/xe-engine.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/XeEngine/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine/CMakeFiles/engine.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/Triangle.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/House.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/House/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/Colors.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Colors/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/Indices.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Indices/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/Uniforms.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Uniforms/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/PVM.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/PVM/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/Pyramid.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Pyramid/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/Resizing.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Resizing/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/Zoom.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Zoom/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/CameraMovement/CMakeFiles/CameraMovement.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/CameraMovement/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/CameraMovement/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/CameraMovement/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/CameraMovement/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/CameraMovement/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/MeshesMaterials/CMakeFiles/MeshesMaterials.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/MeshesMaterials/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/MeshesMaterials/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/MeshesMaterials/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/MeshesMaterials/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/MeshesMaterials/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Textures/CMakeFiles/Textures.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Textures/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Textures/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Textures/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Textures/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Textures/CMakeFiles/install/local.dir

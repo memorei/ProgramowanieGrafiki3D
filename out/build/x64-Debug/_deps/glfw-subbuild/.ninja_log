@@ -1,21 +1,21 @@
 # ninja log v6
-4	68	7873252468181626	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	4a32423323b0e520
-4	68	7873252468181626	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	4a32423323b0e520
-69	4544	7873252512938508	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	beb62a5d84b6ba22
-69	4544	7873252512938508	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	beb62a5d84b6ba22
-4544	6037	7873252512984099	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	e8f19cab0590d1b6
-4544	6037	7873252512984099	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	e8f19cab0590d1b6
-6038	6100	7873252528507597	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	d5b115c549b94999
-6038	6100	7873252528507597	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	d5b115c549b94999
-6101	6162	7873252529094203	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	11dc0ca31c61f955
-6101	6162	7873252529094203	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	11dc0ca31c61f955
-6163	6216	7873252529663010	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	3e7a86e3244d9f4d
-6163	6216	7873252529663010	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	3e7a86e3244d9f4d
-6216	6269	7873252530185618	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	71e495d509eaee4c
-6216	6269	7873252530185618	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	71e495d509eaee4c
-6269	6321	7873252530716247	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	2daff5eb87876ce7
-6269	6321	7873252530716247	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	2daff5eb87876ce7
-6322	6397	7873252531470055	CMakeFiles/glfw-populate-complete	4fb1f665a40e8d54
-6322	6397	7873252531470055	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	4fb1f665a40e8d54
-6322	6397	7873252531470055	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	4fb1f665a40e8d54
-6322	6397	7873252531470055	C:/Users/melod/Documents/Geometria3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	4fb1f665a40e8d54
+4	71	7887443699271345	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	aa97f50648c91dec
+4	71	7887443699271345	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	aa97f50648c91dec
+72	4063	7887443739180538	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	253e3d0ac9ff2503
+72	4063	7887443739180538	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	253e3d0ac9ff2503
+4063	5542	7887443739241133	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	40f008e03f68026a
+4063	5542	7887443739241133	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	40f008e03f68026a
+5542	5601	7887443754571222	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	201ef9709c60a281
+5542	5601	7887443754571222	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	201ef9709c60a281
+5601	5661	7887443755169330	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d79d185a9cb244d6
+5601	5661	7887443755169330	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d79d185a9cb244d6
+5661	5720	7887443755759605	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	571c3ebe0d0ca927
+5661	5720	7887443755759605	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	571c3ebe0d0ca927
+5720	5788	7887443756425098	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	385ecdb87f2c404f
+5720	5788	7887443756425098	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	385ecdb87f2c404f
+5788	5857	7887443757130511	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	ae26d5587ae03c9a
+5788	5857	7887443757130511	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	ae26d5587ae03c9a
+5858	5957	7887443758129290	CMakeFiles/glfw-populate-complete	850617dc257bdc19
+5858	5957	7887443758129290	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	850617dc257bdc19
+5858	5957	7887443758129290	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	850617dc257bdc19
+5858	5957	7887443758129290	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	850617dc257bdc19

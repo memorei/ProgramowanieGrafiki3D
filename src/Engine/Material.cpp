@@ -20,9 +20,7 @@ namespace xe {
 
     }
 
-
     void ColorMaterial::init() {
-
 
         auto program = xe::utils::create_program(
                 {{GL_VERTEX_SHADER,   std::string(PROJECT_DIR) + "/shaders/color_vs.glsl"},

@@ -8,9 +8,15 @@
   "ExpandedNodes": [
     "",
     "\\Assignments",
-    "\\Assignments\\Pyramid",
     "\\src",
-    "\\src\\Assignments"
+    "\\src\\Assignments",
+    "\\src\\Assignments\\Engine",
+    "\\src\\Assignments\\Engine\\shaders",
+    "\\src\\Assignments\\MeshesMaterials\\shaders",
+    "\\src\\Assignments\\Textures",
+    "\\src\\Assignments\\Textures\\shaders",
+    "\\src\\Engine\\shaders"
   ],
+  "SelectedNode": "\\src\\Assignments\\Engine\\Material.cpp",
   "PreviewInSolutionExplorer": false
 }
