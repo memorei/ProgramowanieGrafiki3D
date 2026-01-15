@@ -7,16 +7,16 @@
   },
   "ExpandedNodes": [
     "",
-    "\\Assignments",
+    "\\Assignments\\MeshesMaterials",
     "\\src",
     "\\src\\Assignments",
-    "\\src\\Assignments\\Engine",
     "\\src\\Assignments\\Engine\\shaders",
+    "\\src\\Assignments\\Engine_Meshes\\shaders",
+    "\\src\\Assignments\\MeshesMaterials",
     "\\src\\Assignments\\MeshesMaterials\\shaders",
     "\\src\\Assignments\\Textures",
-    "\\src\\Assignments\\Textures\\shaders",
-    "\\src\\Engine\\shaders"
+    "\\src\\Assignments\\Textures\\shaders"
   ],
-  "SelectedNode": "\\src\\Assignments\\Engine\\Material.cpp",
+  "SelectedNode": "\\src\\Assignments\\MeshesMaterials\\app.cpp",
   "PreviewInSolutionExplorer": false
 }

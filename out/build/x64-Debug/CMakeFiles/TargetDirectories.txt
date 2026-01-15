@@ -58,6 +58,12 @@ C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assign
 C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine/CMakeFiles/list_install_components.dir
 C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine/CMakeFiles/install.dir
 C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine_Meshes/CMakeFiles/Engine_Meshes.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine_Meshes/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine_Meshes/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine_Meshes/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine_Meshes/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Engine_Meshes/CMakeFiles/install/local.dir
 C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/Triangle.dir
 C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/edit_cache.dir
 C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Triangle/CMakeFiles/rebuild_cache.dir

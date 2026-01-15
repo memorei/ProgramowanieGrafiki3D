@@ -112,6 +112,14 @@ else ()
     message("Warning: directory Engine does not exists.")
 endif ()
 
+if (EXISTS ${SOURCE_DIR}/Assignments/Engine)
+    add_subdirectory(src/Assignments/Engine_Meshes)
+else ()
+    message("Warning: directory Engine_Meshes does not exists.")
+endif ()
+
+
+
 
 #Assignments
 set(ASSIGNMENTS Triangle House Colors Indices Uniforms PVM Pyramid Resizing Zoom CameraMovement Meshes Materials MeshesMaterials SceneGraph Textures Phong PBR MultipleLights NormalMaps)
