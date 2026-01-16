@@ -7,6 +7,7 @@
 class Camera {
 public:
 
+    // sets camera orientation
     void look_at(const glm::vec3& eye, const glm::vec3& center, const glm::vec3& up) {
         z_ = glm::normalize(eye - center);
         x_ = glm::normalize(glm::cross(up, z_));
@@ -16,6 +17,7 @@ public:
         center_ = center;
     }
 
+	// getters
     glm::vec3 x() const { return x_; }
     glm::vec3 y() const { return y_; }
     glm::vec3 z() const { return z_; }
@@ -29,10 +31,12 @@ public:
         far_ = far;
     }
 
+	// sets aspect ratio
     void set_aspect(float aspect) {
         aspect_ = aspect;
     }
 
+	// zooms in/out by changing fov
     void zoom(float y_offset) {
         auto x = fov_ / glm::pi<float>();
         auto y = inverse_logistic(x);
@@ -40,15 +44,17 @@ public:
         x = logistic(y);
         fov_ = x * glm::pi<float>();
     }
-
+	// constructs view matrix from camera basis and position
     glm::mat4 view() const {
         glm::mat4 V(1.0f);
+        // orientation part of the view matrix
         for (int i = 0; i < 3; ++i) {
+			
             V[i][0] = x_[i];
             V[i][1] = y_[i];
             V[i][2] = z_[i];
         }
-
+		// translation
         auto t = -glm::vec3{
             glm::dot(x_, position_),
             glm::dot(y_, position_),
@@ -58,9 +64,10 @@ public:
 
         return V;
     }
-
+	// creates projection matrix
     glm::mat4 projection() const { return glm::perspective(fov_, aspect_, near_, far_); }
 
+	// rotates camera around point c
     void rotate_around_point(float angle, const glm::vec3& axis, const glm::vec3& c) {
         auto R = rotation(angle, axis);
 
@@ -72,7 +79,7 @@ public:
         t = R * t;
         position_ = c + t;
     }
-
+	// rotates camera around its center point
     void rotate_around_center(float angle, const glm::vec3& axis) {
         rotate_around_point(angle, axis, center_);
     }

@@ -37,7 +37,7 @@ class CameraControler {
         };
 
     private:
-        const float scale_ = 0.01f;
+		const float scale_ = 0.01f; // rotation sensitivity
         bool LMB_pressed_;
         float x_, y_;
 

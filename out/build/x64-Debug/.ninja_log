@@ -81,3 +81,6 @@
 37	607	7897628338637896	src/Assignments/CameraMovement/CMakeFiles/CameraMovement.dir/main.cpp.obj	24bfaff90ea42341
 45	702	7897628338713304	src/Assignments/CameraMovement/CMakeFiles/CameraMovement.dir/app.cpp.obj	a02682f32257a83d
 703	1171	7897628345283074	src/Assignments/CameraMovement/CameraMovement.exe	d5f285b0a76cf251
+34	1044	7902104496514196	src/Assignments/Resizing/CMakeFiles/Resizing.dir/main.cpp.obj	d80e6f24290f7e21
+43	1059	7902104496599688	src/Assignments/Resizing/CMakeFiles/Resizing.dir/app.cpp.obj	b8e333ada30758dd
+1060	1782	7902104506772834	src/Assignments/Resizing/Resizing.exe	1b931a44f803023a

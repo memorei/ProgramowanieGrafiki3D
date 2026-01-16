@@ -21,6 +21,8 @@ public:
         aspect_ = aspect;
     }
 
+	// zooms in/out by changing fov
+
     void zoom(float y_offset) {
         auto x = fov_ / glm::pi<float>();
         auto y = inverse_logistic(x);
