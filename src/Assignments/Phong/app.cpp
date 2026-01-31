@@ -15,6 +15,7 @@
 #define STB_IMAGE_IMPLEMENTATION 1
 #include <Assignments/Engine/PhongMaterial.h>
 #include "Assignments/Engine/ColorMaterial.h"
+#include <Assignments/Engine/Light.h>
 
 void SimpleShapeApplication::init() {
 
@@ -54,21 +55,20 @@ void SimpleShapeApplication::init() {
 
     glm::mat4 PVM = camera()->projection() * camera()->view();
 
-    add_ambient(glm::vec3(0.3f, 0.3f, 0.3f));
-
-    add_light(xe::PointLight(
-        glm::vec3(0.0f, 0.0f, 1.0f),
-        glm::vec3(1.0f, 1.0f, 1.0f),
-        5.0f,  
-        2.0f
-    ));
+    add_ambient(glm::vec3(0.2f, 0.3f, 0.3f));
+    add_light(
+        glm::vec3(2.0f, 0.0f, 1.0f), 
+        glm::vec3(1.0f, 0.0f, 1.0f), 
+        5.0f,                
+        5.0f
+    );
 
 	// lights ubo
     glGenBuffers(1, &lights_ubo_);
     glBindBuffer(GL_UNIFORM_BUFFER, lights_ubo_);
     glBufferData(
         GL_UNIFORM_BUFFER,
-        32 + 48 * 24,
+        16 + (sizeof(xe::PointLight) * MAX_POINT_LIGHTS), 
         nullptr,
         GL_DYNAMIC_DRAW
     );
@@ -111,28 +111,21 @@ void SimpleShapeApplication::frame() {
     glm::mat4 VM = camera()->view();
     glm::mat4 PVM = camera()->projection() * VM;
 
+    glm::mat3 N = glm::transpose(glm::inverse(glm::mat3(VM)));
     glm::mat3 R = glm::mat3(VM);
-    glm::mat3 N = glm::mat3(
-        glm::cross(R[1], R[2]),
-        glm::cross(R[2], R[0]),
-        glm::cross(R[0], R[1])
-    );
 
     glBindBuffer(GL_UNIFORM_BUFFER, lights_ubo_);
 
     glBufferSubData(GL_UNIFORM_BUFFER, 0, sizeof(glm::vec3), &ambient_);
+
     unsigned int n = (unsigned int)p_lights_.size();
-    glBufferSubData(GL_UNIFORM_BUFFER, 16, sizeof(unsigned int), &n);
+    glBufferSubData(GL_UNIFORM_BUFFER, 12, sizeof(unsigned int), &n);
 
-    size_t offset = 32;
+    size_t offset = 16;
+    for (size_t i = 0; i < p_lights_.size(); ++i) {
+        p_lights_[i].position_in_vs = p_lights_pos_ws_[i];
 
-    for (int i = 0; i < (int)p_lights_.size(); ++i) {
-        auto& l = p_lights_[i];
-
-        glm::vec4 pos_vs = VM * glm::vec4(l.position_in_ws, 1.0f);
-        l.position_in_vs = glm::vec3(pos_vs);
-
-        glBufferSubData(GL_UNIFORM_BUFFER, offset, sizeof(xe::PointLight), &l);
+        glBufferSubData(GL_UNIFORM_BUFFER, offset, sizeof(xe::PointLight), &p_lights_[i]);
         offset += sizeof(xe::PointLight);
     }
 
@@ -183,14 +176,4 @@ void SimpleShapeApplication::cursor_position_callback(double x, double y) {
     if (controler_) {
         controler_->mouse_moved((float)x, (float)y);
     }
-}
-
-void add_light(const xe::PointLight& p_light) {
-    std::vector<xe::PointLight> p_lights_;
-    p_lights_.push_back(p_light);
-}
-
-void add_ambient(glm::vec3 ambient) {
-    glm::vec3 ambient_;
-    ambient_ = ambient;
 }

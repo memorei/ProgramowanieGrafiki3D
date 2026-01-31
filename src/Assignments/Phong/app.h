@@ -37,7 +37,12 @@ public:
 
     void set_controler(CameraControler* controler) { controler_ = controler; }
 
-    void add_light(const xe::PointLight& l) { p_lights_.push_back(l); }
+    void add_light(const glm::vec3& position_ws, const glm::vec3& color, float intensity, float radius) {
+        // Tworzymy œwiat³o (pozycja w VS zostanie obliczona w klatce)
+        p_lights_.emplace_back(glm::vec3(0.0f), color, intensity, radius);
+        // Zapamiêtujemy pozycjê w œwiecie
+        p_lights_pos_ws_.push_back(position_ws);
+    }
     void add_ambient(const glm::vec3& a) { ambient_ = a; }
 
     void add_submesh(xe::Mesh* mesh) {
@@ -80,6 +85,8 @@ private:
 
     glm::vec3 ambient_;
     std::vector<xe::PointLight> p_lights_;
+    std::vector<glm::vec3> p_lights_pos_ws_;
+    const int MAX_POINT_LIGHTS = 24;
     GLuint lights_ubo_;
 
     GLuint program_;

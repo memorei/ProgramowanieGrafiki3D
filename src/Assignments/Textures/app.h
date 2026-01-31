@@ -8,6 +8,7 @@
 #include "glad/gl.h"
 #include "glm/glm.hpp"
 #include "Assignments/Engine/Mesh.h"
+#include <Assignments/Engine/Light.h>
 
 
 class CameraControler;
@@ -71,6 +72,7 @@ private:
     CameraControler* controler_;
 
     std::vector<xe::Mesh*> meshes_;
+    std::vector<xe::PointLight> p_lights_;
 
     GLuint program_;
 
