@@ -476,6 +476,15 @@ PVM_IS_TOP_LEVEL:STATIC=OFF
 PVM_SOURCE_DIR:STATIC=C:/Users/melod/Documents/Programowanie Grafiki 3D/src/Assignments/PVM
 
 //Value Computed by CMake
+Phong_BINARY_DIR:STATIC=C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Phong
+
+//Value Computed by CMake
+Phong_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Phong_SOURCE_DIR:STATIC=C:/Users/melod/Documents/Programowanie Grafiki 3D/src/Assignments/Phong
+
+//Value Computed by CMake
 Pyramid_BINARY_DIR:STATIC=C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Pyramid
 
 //Value Computed by CMake
@@ -802,7 +811,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=23
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=24
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //noop for ranlib

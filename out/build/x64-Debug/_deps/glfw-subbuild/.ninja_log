@@ -1,37 +1,37 @@
 # ninja log v6
-4	70	7897619200711652	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	aa97f50648c91dec
-6	1457	7897625252848585	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	40f008e03f68026a
-1457	1521	7897625267960131	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	201ef9709c60a281
-4	70	7897619200711652	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	aa97f50648c91dec
-6	1457	7897625252848585	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	40f008e03f68026a
-71	15340	7897619353392472	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	253e3d0ac9ff2503
-71	15340	7897619353392472	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	253e3d0ac9ff2503
-1457	1521	7897625267960131	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	201ef9709c60a281
-1522	1579	7897625268529140	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d79d185a9cb244d6
-1750	1828	7897625271019811	CMakeFiles/glfw-populate-complete	850617dc257bdc19
-1522	1579	7897625268529140	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d79d185a9cb244d6
-1580	1636	7897625269102993	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	571c3ebe0d0ca927
-1580	1636	7897625269102993	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	571c3ebe0d0ca927
-1637	1695	7897625269700860	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	385ecdb87f2c404f
-1637	1695	7897625269700860	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	385ecdb87f2c404f
-1696	1750	7897625270245227	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	ae26d5587ae03c9a
-1696	1750	7897625270245227	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	ae26d5587ae03c9a
-1750	1828	7897625271019811	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	850617dc257bdc19
-1750	1828	7897625271019811	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	850617dc257bdc19
-1750	1828	7897625271019811	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	850617dc257bdc19
-5	1439	7897626195553871	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	40f008e03f68026a
-5	1439	7897626195553871	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	40f008e03f68026a
-1440	1498	7897626210432488	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	201ef9709c60a281
-1440	1498	7897626210432488	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	201ef9709c60a281
-1498	1553	7897626210977679	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d79d185a9cb244d6
-1498	1553	7897626210977679	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d79d185a9cb244d6
-1553	1611	7897626211562876	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	571c3ebe0d0ca927
-1553	1611	7897626211562876	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	571c3ebe0d0ca927
-1611	1667	7897626212130108	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	385ecdb87f2c404f
-1611	1667	7897626212130108	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	385ecdb87f2c404f
-1667	1721	7897626212668032	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	ae26d5587ae03c9a
-1667	1721	7897626212668032	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	ae26d5587ae03c9a
-1721	1800	7897626213457032	CMakeFiles/glfw-populate-complete	850617dc257bdc19
-1721	1800	7897626213457032	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	850617dc257bdc19
-1721	1800	7897626213457032	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	850617dc257bdc19
-1721	1800	7897626213457032	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	850617dc257bdc19
+4	71	7910750041891366	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	aa97f50648c91dec
+6	1532	7910750797782546	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	40f008e03f68026a
+1533	1592	7910750813583878	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	201ef9709c60a281
+4	71	7910750041891366	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	aa97f50648c91dec
+6	1532	7910750797782546	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	40f008e03f68026a
+71	3767	7910750078849262	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	253e3d0ac9ff2503
+71	3767	7910750078849262	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	253e3d0ac9ff2503
+1533	1592	7910750813583878	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	201ef9709c60a281
+1592	1647	7910750814144595	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d79d185a9cb244d6
+1828	1914	7910750816816077	CMakeFiles/glfw-populate-complete	850617dc257bdc19
+1592	1647	7910750814144595	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d79d185a9cb244d6
+1647	1704	7910750814699955	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	571c3ebe0d0ca927
+1647	1704	7910750814699955	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	571c3ebe0d0ca927
+1704	1771	7910750815378025	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	385ecdb87f2c404f
+1704	1771	7910750815378025	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	385ecdb87f2c404f
+1771	1828	7910750815933364	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	ae26d5587ae03c9a
+1771	1828	7910750815933364	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	ae26d5587ae03c9a
+1828	1914	7910750816816077	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	850617dc257bdc19
+1828	1914	7910750816816077	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	850617dc257bdc19
+1828	1914	7910750816816077	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	850617dc257bdc19
+5	1418	7910751071180425	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	40f008e03f68026a
+5	1418	7910751071180425	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	40f008e03f68026a
+1418	1474	7910751085819865	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	201ef9709c60a281
+1418	1474	7910751085819865	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	201ef9709c60a281
+1474	1528	7910751086364387	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d79d185a9cb244d6
+1474	1528	7910751086364387	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	d79d185a9cb244d6
+1529	1583	7910751086907882	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	571c3ebe0d0ca927
+1529	1583	7910751086907882	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	571c3ebe0d0ca927
+1583	1640	7910751087481180	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	385ecdb87f2c404f
+1583	1640	7910751087481180	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	385ecdb87f2c404f
+1640	1696	7910751088048198	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	ae26d5587ae03c9a
+1640	1696	7910751088048198	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	ae26d5587ae03c9a
+1697	1771	7910751088795851	CMakeFiles/glfw-populate-complete	850617dc257bdc19
+1697	1771	7910751088795851	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	850617dc257bdc19
+1697	1771	7910751088795851	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	850617dc257bdc19
+1697	1771	7910751088795851	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	850617dc257bdc19

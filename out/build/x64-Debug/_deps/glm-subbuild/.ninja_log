@@ -1,37 +1,37 @@
 # ninja log v6
-4	70	7897619382230249	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	15c5853382208e66
-4	1481	7897625273131365	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	7a984af0dcf570e8
-4	70	7897619382230249	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	15c5853382208e66
-71	10902	7897619490545374	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	674e622c31dc452b
-71	10902	7897619490545374	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	674e622c31dc452b
-1608	1673	7897625289773998	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	487ce6a6946e362
-1481	1545	7897625288492565	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	84eeadfd8096d4ed
-4	1481	7897625273131365	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	7a984af0dcf570e8
-1481	1545	7897625288492565	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	84eeadfd8096d4ed
-1545	1608	7897625289114711	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	2f6edd25778ec5f
-1545	1608	7897625289114711	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	2f6edd25778ec5f
-1608	1673	7897625289773998	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	487ce6a6946e362
-1673	1732	7897625290368817	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	da15e48803f8499c
-1673	1732	7897625290368817	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	da15e48803f8499c
-1732	1793	7897625290974492	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	60fa8908338a12c2
-1732	1793	7897625290974492	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	60fa8908338a12c2
-1794	1874	7897625291780965	CMakeFiles/glm-populate-complete	cfeb4b0889d294e2
-1794	1874	7897625291780965	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	cfeb4b0889d294e2
-1794	1874	7897625291780965	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	cfeb4b0889d294e2
-1794	1874	7897625291780965	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	cfeb4b0889d294e2
-6	1383	7897626215395502	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	7a984af0dcf570e8
-6	1383	7897626215395502	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	7a984af0dcf570e8
-1383	1442	7897626229720819	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	84eeadfd8096d4ed
-1383	1442	7897626229720819	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	84eeadfd8096d4ed
-1442	1498	7897626230274816	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	2f6edd25778ec5f
-1442	1498	7897626230274816	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	2f6edd25778ec5f
-1499	1555	7897626230845794	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	487ce6a6946e362
-1499	1555	7897626230845794	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	487ce6a6946e362
-1555	1612	7897626231415483	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	da15e48803f8499c
-1555	1612	7897626231415483	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	da15e48803f8499c
-1612	1670	7897626232000674	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	60fa8908338a12c2
-1612	1670	7897626232000674	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	60fa8908338a12c2
-1670	1749	7897626232779471	CMakeFiles/glm-populate-complete	cfeb4b0889d294e2
-1670	1749	7897626232779471	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	cfeb4b0889d294e2
-1670	1749	7897626232779471	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	cfeb4b0889d294e2
-1670	1749	7897626232779471	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	cfeb4b0889d294e2
+5	72	7910750105550111	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	15c5853382208e66
+5	1500	7910750818880086	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	7a984af0dcf570e8
+5	72	7910750105550111	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	15c5853382208e66
+73	12834	7910750233175297	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	674e622c31dc452b
+73	12834	7910750233175297	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	674e622c31dc452b
+1613	1667	7910750835449598	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	487ce6a6946e362
+1500	1557	7910750834349655	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	84eeadfd8096d4ed
+5	1500	7910750818880086	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	7a984af0dcf570e8
+1500	1557	7910750834349655	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	84eeadfd8096d4ed
+1557	1613	7910750834908874	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	2f6edd25778ec5f
+1557	1613	7910750834908874	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	2f6edd25778ec5f
+1613	1667	7910750835449598	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	487ce6a6946e362
+1667	1722	7910750835996466	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	da15e48803f8499c
+1667	1722	7910750835996466	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	da15e48803f8499c
+1722	1776	7910750836537366	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	60fa8908338a12c2
+1722	1776	7910750836537366	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	60fa8908338a12c2
+1776	1851	7910750837297262	CMakeFiles/glm-populate-complete	cfeb4b0889d294e2
+1776	1851	7910750837297262	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	cfeb4b0889d294e2
+1776	1851	7910750837297262	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	cfeb4b0889d294e2
+1776	1851	7910750837297262	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	cfeb4b0889d294e2
+5	1610	7910751090790787	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	7a984af0dcf570e8
+5	1610	7910751090790787	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	7a984af0dcf570e8
+1611	1665	7910751107340334	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	84eeadfd8096d4ed
+1611	1665	7910751107340334	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	84eeadfd8096d4ed
+1665	1720	7910751107893926	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	2f6edd25778ec5f
+1665	1720	7910751107893926	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	2f6edd25778ec5f
+1721	1775	7910751108443608	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	487ce6a6946e362
+1721	1775	7910751108443608	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	487ce6a6946e362
+1775	1829	7910751108981790	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	da15e48803f8499c
+1775	1829	7910751108981790	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	da15e48803f8499c
+1829	1884	7910751109530811	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	60fa8908338a12c2
+1829	1884	7910751109530811	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	60fa8908338a12c2
+1884	1960	7910751110283789	CMakeFiles/glm-populate-complete	cfeb4b0889d294e2
+1884	1960	7910751110283789	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	cfeb4b0889d294e2
+1884	1960	7910751110283789	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	cfeb4b0889d294e2
+1884	1960	7910751110283789	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	cfeb4b0889d294e2

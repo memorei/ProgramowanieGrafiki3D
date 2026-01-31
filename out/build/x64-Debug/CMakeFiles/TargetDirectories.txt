@@ -136,3 +136,9 @@ C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assign
 C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Textures/CMakeFiles/list_install_components.dir
 C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Textures/CMakeFiles/install.dir
 C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Textures/CMakeFiles/install/local.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Phong/CMakeFiles/Phong.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Phong/CMakeFiles/edit_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Phong/CMakeFiles/rebuild_cache.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Phong/CMakeFiles/list_install_components.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Phong/CMakeFiles/install.dir
+C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Phong/CMakeFiles/install/local.dir

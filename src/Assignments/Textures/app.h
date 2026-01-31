@@ -7,7 +7,7 @@
 #include "camera.h"
 #include "glad/gl.h"
 #include "glm/glm.hpp"
-#include "Engine/Mesh.h"
+#include "Assignments/Engine/Mesh.h"
 
 
 class CameraControler;

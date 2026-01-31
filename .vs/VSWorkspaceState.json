@@ -7,16 +7,13 @@
   },
   "ExpandedNodes": [
     "",
-    "\\Assignments",
-    "\\Assignments\\MeshesMaterials",
+    "\\Models",
     "\\src",
     "\\src\\Assignments",
-    "\\src\\Assignments\\Engine_Meshes",
-    "\\src\\Assignments\\MeshesMaterials",
-    "\\src\\Assignments\\MeshesMaterials\\shaders",
-    "\\src\\Assignments\\Textures\\shaders",
-    "\\src\\Assignments\\Zoom"
+    "\\src\\Assignments\\Engine",
+    "\\src\\Assignments\\Engine\\shaders",
+    "\\src\\Assignments\\Phong"
   ],
-  "SelectedNode": "\\src\\Assignments\\Engine_Meshes\\Mesh.cpp",
+  "SelectedNode": "\\src\\Assignments\\Phong\\app.cpp",
   "PreviewInSolutionExplorer": false
 }

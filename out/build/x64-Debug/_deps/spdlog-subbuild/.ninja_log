@@ -1,37 +1,37 @@
 # ninja log v6
-4	70	7897619518219582	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	bfec6d12fec787ac
-1453	1525	7897625309153831	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	410be2fb4a49fa70
-4	70	7897619518219582	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	bfec6d12fec787ac
-71	5846	7897619575986655	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	35083d190fd42eed
-71	5846	7897619575986655	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	35083d190fd42eed
-5	1453	7897625294004286	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	dbb861e809f2e56c
-5	1453	7897625294004286	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	dbb861e809f2e56c
-1453	1525	7897625309153831	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	410be2fb4a49fa70
-1526	1596	7897625309855141	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	d9e440bdbf56620c
-1526	1596	7897625309855141	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	d9e440bdbf56620c
-1596	1660	7897625310499719	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	d8d6acc7fb06f089
-1596	1660	7897625310499719	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	d8d6acc7fb06f089
-1660	1718	7897625311085179	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	416fe567edb04c14
-1660	1718	7897625311085179	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	416fe567edb04c14
-1718	1772	7897625311629716	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	ec2eedafa533252b
-1772	1848	7897625312381024	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	e007bcafbe1bb04d
-1718	1772	7897625311629716	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	ec2eedafa533252b
-1772	1848	7897625312381024	CMakeFiles/spdlog-populate-complete	e007bcafbe1bb04d
-1772	1848	7897625312381024	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	e007bcafbe1bb04d
-1772	1848	7897625312381024	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	e007bcafbe1bb04d
-6	1334	7897626234877748	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	dbb861e809f2e56c
-6	1334	7897626234877748	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	dbb861e809f2e56c
-1334	1390	7897626248673296	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	410be2fb4a49fa70
-1334	1390	7897626248673296	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	410be2fb4a49fa70
-1390	1450	7897626249273333	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	d9e440bdbf56620c
-1390	1450	7897626249273333	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	d9e440bdbf56620c
-1450	1509	7897626249861332	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	d8d6acc7fb06f089
-1450	1509	7897626249861332	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	d8d6acc7fb06f089
-1509	1572	7897626250492906	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	416fe567edb04c14
-1509	1572	7897626250492906	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	416fe567edb04c14
-1573	1630	7897626251084889	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	ec2eedafa533252b
-1573	1630	7897626251084889	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	ec2eedafa533252b
-1631	1705	7897626251827404	CMakeFiles/spdlog-populate-complete	e007bcafbe1bb04d
-1631	1705	7897626251827404	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	e007bcafbe1bb04d
-1631	1705	7897626251827404	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	e007bcafbe1bb04d
-1631	1705	7897626251827404	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	e007bcafbe1bb04d
+4	72	7910750273797589	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	bfec6d12fec787ac
+1381	1436	7910750853667116	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	410be2fb4a49fa70
+4	72	7910750273797589	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	bfec6d12fec787ac
+73	6916	7910750342236691	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	35083d190fd42eed
+73	6916	7910750342236691	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	35083d190fd42eed
+6	1380	7910750839405237	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	dbb861e809f2e56c
+6	1380	7910750839405237	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	dbb861e809f2e56c
+1381	1436	7910750853667116	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	410be2fb4a49fa70
+1436	1490	7910750854204398	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	d9e440bdbf56620c
+1436	1490	7910750854204398	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	d9e440bdbf56620c
+1490	1544	7910750854743112	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	d8d6acc7fb06f089
+1490	1544	7910750854743112	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	d8d6acc7fb06f089
+1545	1614	7910750855444098	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	416fe567edb04c14
+1545	1614	7910750855444098	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	416fe567edb04c14
+1614	1673	7910750856030038	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	ec2eedafa533252b
+1673	1754	7910750856846247	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	e007bcafbe1bb04d
+1614	1673	7910750856030038	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	ec2eedafa533252b
+1673	1754	7910750856846247	CMakeFiles/spdlog-populate-complete	e007bcafbe1bb04d
+1673	1754	7910750856846247	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	e007bcafbe1bb04d
+1673	1754	7910750856846247	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	e007bcafbe1bb04d
+5	1404	7910751112397052	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	dbb861e809f2e56c
+5	1404	7910751112397052	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	dbb861e809f2e56c
+1404	1459	7910751126887069	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	410be2fb4a49fa70
+1404	1459	7910751126887069	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	410be2fb4a49fa70
+1459	1511	7910751127408274	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	d9e440bdbf56620c
+1459	1511	7910751127408274	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	d9e440bdbf56620c
+1511	1567	7910751127972312	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	d8d6acc7fb06f089
+1511	1567	7910751127972312	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	d8d6acc7fb06f089
+1567	1619	7910751128492771	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	416fe567edb04c14
+1567	1619	7910751128492771	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	416fe567edb04c14
+1619	1677	7910751129073302	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	ec2eedafa533252b
+1619	1677	7910751129073302	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	ec2eedafa533252b
+1677	1759	7910751129894087	CMakeFiles/spdlog-populate-complete	e007bcafbe1bb04d
+1677	1759	7910751129894087	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	e007bcafbe1bb04d
+1677	1759	7910751129894087	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	e007bcafbe1bb04d
+1677	1759	7910751129894087	C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	e007bcafbe1bb04d

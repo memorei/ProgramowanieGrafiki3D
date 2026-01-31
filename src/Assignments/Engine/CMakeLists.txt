@@ -10,6 +10,10 @@ add_library(engine
         mesh_loader.h        
         Material.h 
         Material.cpp
-        )
+        ColorMaterial.cpp
+        texture.cpp
+        PhongMaterial.h
+        PhongMaterial.cpp)
+         
 
 target_link_libraries(engine PUBLIC objreader PRIVATE spdlog::spdlog)

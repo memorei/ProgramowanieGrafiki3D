@@ -23,7 +23,8 @@
 		"C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Zoom/cmake_install.cmake",
 		"C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/CameraMovement/cmake_install.cmake",
 		"C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/MeshesMaterials/cmake_install.cmake",
-		"C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Textures/cmake_install.cmake"
+		"C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Textures/cmake_install.cmake",
+		"C:/Users/melod/Documents/Programowanie Grafiki 3D/out/build/x64-Debug/src/Assignments/Phong/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
