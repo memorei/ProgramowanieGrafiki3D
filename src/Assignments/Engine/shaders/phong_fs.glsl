@@ -27,9 +27,6 @@ in vec3 vertex_coords_in_vs;
 
 void main() {
     vec3 Nn = normalize(vertex_normals_in_vs);
-
-   // if (!gl_FrontFacing)
-   // Nn = -Nn;
     
     vec3 total_diffuse = vec3(0.0);
 

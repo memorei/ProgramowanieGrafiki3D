@@ -7,13 +7,11 @@
   },
   "ExpandedNodes": [
     "",
-    "\\Models",
     "\\src",
     "\\src\\Assignments",
     "\\src\\Assignments\\Engine",
     "\\src\\Assignments\\Engine\\shaders",
     "\\src\\Assignments\\Phong"
   ],
-  "SelectedNode": "\\src\\Assignments\\Phong\\app.cpp",
   "PreviewInSolutionExplorer": false
 }
